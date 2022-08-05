@@ -11,6 +11,7 @@
 <template>
 <div id="main-container">
   <div id="input-section">
+    <h2>Input text here</h2>
     <input v-model="text" placeholder="Type here" />
   </div>
   <div id="output-section">
